@@ -32,6 +32,23 @@ Research   3 international publications — thermal & electrical
   repos to a remote server via SSH without committing first. For iterating
   on work not yet ready to be versioned.
 
+#### AI projects (freelance / closed source)
+
+- **Loom** — macOS app (Tauri) for a content creator. Multi-stage pipeline
+  *viability → formatting → multi-language polish → topic moderation →
+  composition JSON*, video composition via Remotion, narration with
+  ElevenLabs, vertical reels ready to publish.
+
+#### Hardware & research
+
+```
+Power electronics  · Analog & digital design · PCB design · Instrumentation
+Embedded           · µC (TI / Arduino) · FPGAs / VHDL · PLCs · IoT
+Signal processing  · Digital control · Analog & digital filters · DSP
+Metallurgy         · Thermodynamics · FEM · Mathematical modeling
+                     COMSOL · Mathematica
+```
+
 #### Background
 
 - **Ph.D. in Engineering Sciences** — Instituto Tecnológico de Morelia (2018–2021).
